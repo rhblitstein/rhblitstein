@@ -8,4 +8,4 @@ ___
 ### 🚣 When I've stepped away from my computer, you can find me getting lost on trail runs, snuggling my rottweiler, reading beat poetry, or being a true Colorado dirtbag. <br><br>
 
 ***
- ### 💼 **Interested in collaborating on a project? [Contact me!](<mailto:rhblitstein@gmail.com>)**
+ ### <div style="text-align: right"> **Interested in collaborating on a project? [Contact me!](<mailto:rhblitstein@gmail.com>)** </div>
