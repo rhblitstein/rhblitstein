@@ -1,11 +1,18 @@
 # Howdy! I'm Rebecca Blitstein 👋🤠
 ##### You can call me Bec. 
 ___
-<br>
 
-### 💻 I'm your favorite raft guide's favorite raft guide and a generlist engineer boasting 5+ years of professional experience. I'm a full-stack developer with a B.S in Mathematics and Computer Science, and a love for data-driven code and a penchant for microservice design and API integration. <br><br>
-### 🏔️ I'm currently living out of my truck in Colorado (but you can keep up with my current location on my *[blog](https://rhblitstein.github.io)*). <br><br>
-### 🚣 When I've stepped away from my computer, you can find me getting lost on trail runs, snuggling my rottweiler, reading beat poetry or Bukowski, or flipping my boat. <br><br>
+### 💻 Full-stack engineer with 5+ years building distributed systems and APIs. B.S. in Math & CS. Currently working with Go, React, PostgreSQL, and whatever else gets the job done.
+
+### 🎮 My portfolio is a pixel-art platformer. Turns out I like building games as much as I like running trails. [Check it out](https://rhblitstein.github.io).
+
+### 🚣 1500+ miles spent floating down the rivers of North America. W-EMT-certified with Swiftwater Rescue training. I flip boats for fun and occasionally get paid for it.
+
+### 🏃 Frolicker of trails at various speeds. Big fan of meandering, lollygagging, and general tomfoolery. Can often be found marveling at local wildlife.
+
+### 🏔️ Living out of my truck in Colorado, chasing rivers and trails. Follow along on [Bec on the Road](https://rhblitstein.github.io/blog) (spoiler alert: I flipped in Sweets Falls). 
+
+### 🐕 Proud owner of a stinky dog. Beat poetry enthusiast. Bukowski reader. Professional at getting lost in the backcountry.
 
 ***
- ### <p align="center"> **Interested in collaborating on a project? [Contact me!](<mailto:rhblitstein@gmail.com>)** </p>
+### <p align="center"> **Want to build something? [Get in touch.](<mailto:rhblitstein@gmail.com>)** </p>
